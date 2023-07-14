@@ -14,7 +14,7 @@ struct ContentView: View {
             Color("lightblue")
                 .ignoresSafeArea()
             VStack {
-                Text("Hi! my name is Donna")
+                Text("Hi! my name is Donna!")
                     .font(.largeTitle)
                 
                 Image("IMG-2858")
